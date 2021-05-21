@@ -1,3 +1,0 @@
-//some file added on master with wrong data
-
-master 2: content of this file
