@@ -3,3 +3,5 @@
 correct_changes 3: initial content of a new file
 
 correct_changes 4: added even more
+
+correct_changes 5: added final part to the branch correct_changes
