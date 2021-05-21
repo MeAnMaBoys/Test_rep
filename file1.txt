@@ -3,4 +3,6 @@
 
 master:   initial text in file1
 
-corect_changes: added something correct
+corect_changes 3: added something correct
+
+corect_changes 4: added something more

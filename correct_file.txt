@@ -1,3 +1,5 @@
 //this is a new file created on correct_changes
 
-correct_changes: initial content of a new file
+correct_changes 3: initial content of a new file
+
+correct_changes 4: added even more
